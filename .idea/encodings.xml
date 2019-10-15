@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$/unit/HTMLTestRunner.py" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/unit/config_parser.py" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/unit/usp_prepare_data.sql" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/unit/usp_prepare_data.sql" charset="GBK" />
+  </component>
+</project>
